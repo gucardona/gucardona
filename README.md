@@ -1,10 +1,21 @@
+<div  align="center">
+  <h1>
+    Bem-vindo(a)! Espero que goste do conteúdo! 
+    </h1>
+  <p>
+    Meu nome é Gustavo Parcianello Cardona, estudante de Ciência da Computação na Universidade do Vale do Rio dos Sinos (UNISIONS).
+  </p>
+  </div>
+
+##
+
 <div align="center">
   <a href="https://beacons.ai/gucardona">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gucardona&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gucardona&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
- ##
+##
  
 <div align="center"> 
   <a href="https://instagram.com/gustavopcardona" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -13,8 +24,12 @@
   <a href="https://medium.com/@gupcardona" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 </div>
   
- ##
- <div align="center">
+##
+  
+<div align="center">
+  
   ![Snake animation](https://github.com/gucardona/gucardona/blob/output/github-contribution-grid-snake.svg)
- 
+
 </div>
+
+##

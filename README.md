@@ -1,9 +1,9 @@
 <div  align="center">
   <h1>
-    Bem-vindo(a)! Espero que goste do conteúdo! 
+    Welcome to my GitHub portfolio.
     </h1>
   <p>
-    Meu nome é Gustavo Parcianello Cardona, estudante de Ciência da Computação na Universidade do Vale do Rio dos Sinos (UNISIONS).
+    I hope you like the content I have here!
   </p>
   </div>
 

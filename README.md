@@ -1,35 +1,31 @@
-<div  align="center">
-  <h1>
-    Welcome to my GitHub portfolio.
-    </h1>
-  <p>
-    I hope you like the content I have here!
-  </p>
-  </div>
+# Hi, I'm Gustavo 👋
 
-##
+---
 
-<div align="center">
-  <a href="https://beacons.ai/gucardona">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gucardona&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gucardona&layout=compact&langs_count=7&theme=dark"/>
-</div>
+## 🔧 What I work with
 
-##
- 
-<div align="center"> 
-  <a href="https://instagram.com/gustavopcardona" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gupcardona@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gucardona" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://medium.com/@gupcardona" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-</div>
-  
-##
-  
-<div align="center">
-  
-![Snake animation](https://github.com/gucardona/gucardona/blob/output/github-contribution-grid-snake.svg)
+**Languages**
 
-</div>
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-##
+**Infrastructure & Data**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+
+**Practices**
+
+![CI/CD](https://img.shields.io/badge/CI%2FCD-4A90E2?style=flat-square&logo=githubactions&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum%20Master-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+---
+
+## 📫 Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gucardona)
+[![Website](https://img.shields.io/badge/gupa.dev-000000?style=flat-square&logo=vercel&logoColor=white)](https://gupa.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hi@gupa.dev)

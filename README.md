@@ -1,12 +1,21 @@
-# gustavo parcianello cardona
+<div align="center">
 
-software engineer focused on backend systems and data infrastructure.
-working with go, python and java — running things on kubernetes, docker and spark.
+<br/>
 
----
+# Gustavo Parcianello Cardona
 
-### now
-building distributed systems · learning more about platform engineering
+*backend systems &nbsp;·&nbsp; data infrastructure &nbsp;·&nbsp; distributed computing*
 
-### find me
-[gupa.dev](https://gupa.dev) &nbsp;·&nbsp; [linkedin](https://linkedin.com/in/gucardona) &nbsp;·&nbsp; [hi@gupa.dev](mailto:hi@gupa.dev)
+<br/>
+
+```
+go   python   java   kubernetes   docker   spark
+```
+
+<br/>
+
+[gupa.dev](https://gupa.dev) &nbsp;&nbsp;·&nbsp;&nbsp; [linkedin](https://linkedin.com/in/gucardona) &nbsp;&nbsp;·&nbsp;&nbsp; [hi@gupa.dev](mailto:hi@gupa.dev)
+
+<br/>
+
+</div>

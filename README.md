@@ -1,13 +1,12 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gucardona/gucardona/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gucardona/gucardona/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gucardona/gucardona/output/github-contribution-grid-snake.svg">
-</picture>
+# gustavo parcianello cardona
+
+software engineer focused on backend systems and data infrastructure.
+working with go, python and java — running things on kubernetes, docker and spark.
 
 ---
 
-**gustavo cardona** — software engineer
+### now
+building distributed systems · learning more about platform engineering
 
-go · python · java · docker · kubernetes · spark
-
-[linkedin](https://linkedin.com/in/gucardona) · [gupa.dev](https://gupa.dev) · [hi@gupa.dev](mailto:hi@gupa.dev)
+### find me
+[gupa.dev](https://gupa.dev) &nbsp;·&nbsp; [linkedin](https://linkedin.com/in/gucardona) &nbsp;·&nbsp; [hi@gupa.dev](mailto:hi@gupa.dev)
